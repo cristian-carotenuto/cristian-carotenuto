@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello World! 👋
+![](https://tenor.com/it/view/persona-persona-4-naoto-anime-hello-anime-gif-3820527709701372563)
+![](https://komarev.com/ghpvc/?username=cristian-carotenuto&color=orange&style=plastic&base=1000&label=Curious+People)
+![](https://tenor.com/it/view/dave-fizz-naoto-shirogane-dance-moves-persona4-gif-16580409)
 <!--
 **cristian-carotenuto/cristian-carotenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
