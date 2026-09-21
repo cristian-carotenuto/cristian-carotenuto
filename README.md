@@ -60,13 +60,13 @@ Durante il corso di studi ho maturato esperienza a 360° in:  **C, C++, Java, Ja
 
 <br/> 
 
-# My hobbies
+# My Hobbies Best-Of
 ## Music :  
 ![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Music.png)
 ## Manga & Webtoons :   
 ![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Manga.png) 
-## Games :  
-![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Games.png)
+## Games & TV Shows:  
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Misc.png)
 
 
 
@@ -76,7 +76,7 @@ Durante il corso di studi ho maturato esperienza a 360° in:  **C, C++, Java, Ja
 
 
     
-![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-dance.gif)
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-goodbye.gif)
 
 
 <!--
