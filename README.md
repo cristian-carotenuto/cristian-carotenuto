@@ -12,15 +12,15 @@
 
 # [Enter the Backside of the TV - The Shia Channel](https://cristian-carotenuto.github.io/)
 
-> Studente di Informatica presso l'Università degli Studi di Salerno e sviluppatore Full Stack.  
-> Durante il corso di studi ho maturato esperienza a 360° in:  **C, C++, Java, Javascript, Python, SQL.**
+Studente di Informatica presso l'Università degli Studi di Salerno e sviluppatore Full Stack.  
+Durante il corso di studi ho maturato esperienza a 360° in:  **C, C++, Java, Javascript, Python, SQL.**
 
 
   
-> ### Esperienze concrete maturate :
->   - Sviluppo e mantenimento di WebApp a partire da zero, piattaforma E-Commerce hostata in locale tramite Apache Tomcat.
->   - Sviluppo, Mantenimento e Testing del Software durante il suo ciclo di vita tramite approccio SCRUM / AGILE.
->   - Training e deployment di un Agente Conversazionale nel ruolo di Assistenza per Utenti su una piattaforma mock.
+### Esperienze concrete maturate :
+   - Sviluppo e mantenimento di WebApp a partire da zero, piattaforma E-Commerce hostata in locale tramite Apache Tomcat.
+   - Sviluppo, Mantenimento e Testing del Software durante il suo ciclo di vita tramite approccio SCRUM / AGILE.
+   - Training e deployment di un Agente Conversazionale nel ruolo di Assistenza per Utenti su una piattaforma mock.
 
    
 <br/> 
@@ -59,6 +59,16 @@
 > [EEEEEEEEEE](https://www.youtube.com/watch?v=5k_ieAJlUKw)
 
 <br/> 
+
+# My hobbies
+## Music :  
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Music.png)
+## Manga & Webtoons :   
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Manga.png) 
+## Games :  
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/Games.png)
+
+
 
 # Quante persone hanno visualizzato questa pagina?
 
