@@ -1,7 +1,7 @@
 ## Hello World! 👋
-<img src="https://tenor.com/it/view/persona-persona-4-naoto-anime-hello-anime-gif-3820527709701372563"/>
-![](https://komarev.com/ghpvc/?username=cristian-carotenuto&color=orange&style=plastic&label=Curious+People)
-<img src="https://tenor.com/it/view/dave-fizz-naoto-shirogane-dance-moves-persona4-gif-16580409"/>
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-welcome.gif)
+![](https://komarev.com/ghpvc/?username=cristian-carotenuto&color=orange&style=plastic&base=0&label=Curious+People&abbreviated=true)
+![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-dance.gif)
 <!--
 **cristian-carotenuto/cristian-carotenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-dance.gif
+https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-welcome.gif
 ![](https://tenor.com/it/view/persona-persona-4-naoto-anime-hello-anime-gif-3820527709701372563)
 ![](https://tenor.com/it/view/dave-fizz-naoto-shirogane-dance-moves-persona4-gif-16580409)
 -->
