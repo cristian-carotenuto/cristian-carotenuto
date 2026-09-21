@@ -55,8 +55,8 @@ Durante il corso di studi ho maturato esperienza a 360° in:  **C, C++, Java, Ja
 > Meritevole
 > Accogliente
 > Pragmatico
-> Educato
-> [EEEEEEEEEE](https://www.youtube.com/watch?v=5k_ieAJlUKw)
+> Educato  
+> [cit. Il Trono del Muori](https://www.youtube.com/watch?v=5k_ieAJlUKw)
 
 <br/> 
 
