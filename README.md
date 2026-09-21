@@ -1,7 +1,74 @@
-## Hello World! 👋
+<div align="center">
+
+# Cristian Carotenuto - Full Stack Developer  
 ![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-welcome.gif)
-![](https://komarev.com/ghpvc/?username=cristian-carotenuto&color=orange&style=plastic&base=0&label=Curious+People&abbreviated=true)
+
+<div align="center">
+
+<p>
+  <a href="mailto:ccristian.carotenuto@gmail.com"><img src="https://img.shields.io/badge/Email-ccristian.carotenuto%40gmail.com-6D4AFF?style=plastic&logo=gmail&logoColor=blue" /></a>
+  <a href="https://github.com/cristian-carotenuto"><img src="https://img.shields.io/badge/GitHub-shia is coding-181717?style=plastic&logo=github&logoColor=blue" /></a>
+</p>
+
+# [Enter the Backside of the TV - The Shia Channel](https://cristian-carotenuto.github.io/)
+
+> Studente di Informatica presso l'Università degli Studi di Salerno e sviluppatore Full Stack.  
+> Durante il corso di studi ho maturato esperienza a 360° in:  **C, C++, Java, Javascript, Python, SQL.**
+
+
+  
+> ### Esperienze concrete maturate :
+>   - Sviluppo e mantenimento di WebApp a partire da zero, piattaforma E-Commerce hostata in locale tramite Apache Tomcat.
+>   - Sviluppo, Mantenimento e Testing del Software durante il suo ciclo di vita tramite approccio SCRUM / AGILE.
+>   - Training e deployment di un Agente Conversazionale nel ruolo di Assistenza per Utenti su una piattaforma mock.
+
+   
+<br/> 
+
+# Se dovessi descrivermi direi che sono...   
+
+> Bello
+> Intelligente
+> Affascinante
+> Simpatico
+> Modesto
+> Famiglia perfetta
+> Fortunato
+> Entusiasta
+> Amorevole
+> Talentuoso
+> Empatico
+> Sicuro di sé
+> Elegante
+> Poliedrico
+> Obbiettivo
+> Atletico
+> Comprensivo
+> Persuasivo
+> Gentiluomo
+> Autocritico
+> Sognatore
+> Ammirevole
+> Rispettoso
+> Premuroso
+> Riflessivo
+> Meritevole
+> Accogliente
+> Pragmatico
+> Educato
+> [EEEEEEEEEE](https://www.youtube.com/watch?v=5k_ieAJlUKw)
+
+<br/> 
+
+# Quante persone hanno visualizzato questa pagina?
+
+![](https://komarev.com/ghpvc/?username=cristian-carotenuto&color=blue&style=plastic&base=0&label=Curious+People&abbreviated=true)
+
+
+    
 ![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-dance.gif)
+
+
 <!--
 **cristian-carotenuto/cristian-carotenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
