@@ -25,7 +25,10 @@ Durante il corso di studi ho maturato esperienza a 360° in  <!--  **C, C++, Jav
 
 # ❓🤔 Cosa sto facendo attualmente? 🤔❓
 
- Attualmente sto lavorando a questo progettino ispirato a Persona 4 <img src="https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/persona4-banner.jpg" width="8%" height="3%"/> <img src="https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/adachi-true.jpg" width="3%" height="3%"/>  
+<div align="center">
+
+ <img src="https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/persona4-banner.jpg" width="20%" height="20%"/> <img src="https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/adachi-true.jpg" width="10%" height="10%"/>  
+ Attualmente sto lavorando a questo progettino ispirato a Persona 4  
  Live Demo: [Enter the Backside of the TV - 📺 The Shia Channel 📺](https://cristian-carotenuto.github.io/)
 
 # 💭 Se dovessi descrivermi direi che sono... 💭    
@@ -75,11 +78,12 @@ Durante il corso di studi ho maturato esperienza a 360° in  <!--  **C, C++, Jav
 
 ![](https://komarev.com/ghpvc/?username=cristian-carotenuto&color=blue&style=plastic&base=0&label=Curious+People&abbreviated=true)
 
-![](https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-goodbye.gif)
+ <img src="https://github.com/cristian-carotenuto/cristian-carotenuto/blob/main/naoto-goodbye.gif">
 
 
 <!--
 # [Enter the Backside of the TV - The Shia Channel](https://cristian-carotenuto.github.io/)
+width="20%" height="20%"/
 
 **cristian-carotenuto/cristian-carotenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
